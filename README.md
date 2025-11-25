@@ -25,4 +25,4 @@
 - `remove()`: 특정 요소 삭제 (순서 지정 삭제 불가)
 
 ### #38번  
-- Set Comprehension: `for` 반복문과 `if` 조건문을 사용하여 세트 생성
+- `Set Comprehension`: `for` 반복문과 `if` 조건문을 사용하여 세트 생성
